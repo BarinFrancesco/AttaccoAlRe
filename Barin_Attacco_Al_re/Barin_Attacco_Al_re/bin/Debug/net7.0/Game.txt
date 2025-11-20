@@ -1,0 +1,24 @@
+Arthur
+Matteo Marco Giovanni Luca Sebastiano Giorgio Giacomo Mario
+Andrea Samuele Martino Edoardo Alberto Pietro Enrico Alessandro
+Attacca Re
+Cattura Matteo
+Cattura Andrea
+Cattura Marco
+Cattura Samuele
+Attacca Re
+Cattura Martino
+Cattura Luca
+Cattura Edoardo
+Cattura Giovanni
+Attacca Re
+Cattura Sebastiano
+Cattura Alberto
+Cattura Giorgio
+Cattura Pietro
+Attacca Re
+Cattura Giacomo
+Cattura Enrico
+Cattura Mario
+Cattura Alessandro
+End

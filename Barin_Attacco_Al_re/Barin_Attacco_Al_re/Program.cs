@@ -2,64 +2,35 @@
 {
     internal class Program
     {
-        string path = @"\..\..\..\files\Game.txt";
-        List<string> ListaMosse = new List<string>();
-        List<CPersonaggio> ListaPersonaggi = new List<CPersonaggio>();
-
-        public void Istanzia()
-        {
-            using(StreamReader sr = new StreamReader(path)) 
-            {
-                int linecount = 0;
-                while (!sr.EndOfStream)
-                {
-                    
-                    if(linecount == 0)
-                    {
-
-                        string valori = sr.ReadLine().Trim();
-                        CRe re;
-                        ListaPersonaggi.Add(re = new CRe(valori));
-
-                    } else if (linecount == 1) 
-                    {
-                        CreazionePersonaggi(sr.ReadLine(), true);
-                    } else if(linecount == 2)
-                    {
-                        CreazionePersonaggi(sr.ReadLine(), true);
-                    } else
-                    {
-                        ListaMosse.Add(sr.ReadLine());
-                    }
-                    linecount++;
-                }
-                
-            }
-        }
-
-
-        public void CreazionePersonaggi(string testo, bool caso)
-        {
-            string[] valori = testo.Split(' ');
-
-            foreach(string s in valori) 
-            {
-                if(caso)
-                {
-                    CGuardia guardia;
-                    ListaPersonaggi.Add(guardia = new CGuardia(s));
-                } else
-                {
-                    CPedone pedone;
-                    ListaPersonaggi.Add(pedone = new CPedone(s));
-                }
-            }
-        }
+        
 
 
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+
+            
         }
     }
 }
+
+/*
+ * foreach(string elemento in gioco.ListaMosse)
+            {
+                Console.WriteLine(elemento);
+            }
+
+            foreach(var persona in gioco.ListaPersonaggi)
+            {
+                if(persona is CRe re)
+                {
+                    Console.WriteLine($"Il re {re.Nome}");
+                } else if (persona is CGuardia guardia)
+                {
+                    Console.WriteLine($"La guardia {guardia.Nome}");
+                } else if (persona is CPedone pedone)
+                {
+                    Console.WriteLine($"Il pedone {pedone.Nome}");
+                }
+            }
+*/

@@ -8,7 +8,6 @@ namespace Barin_Attacco_Al_re
 {
     internal class CPedone : CPersonaggio, IAttaccabile
     {
-        public event EventHandler<string> Attaccato;
         public CPedone(string nome) : base(nome) { }
 
         public void ReAttaccato()
@@ -17,9 +16,9 @@ namespace Barin_Attacco_Al_re
             OnAttaccato(this, message);
         }
 
-        protected virtual void OnAttaccato(object sender, string message)
+        public virtual void OnAttaccato(object sender, string message)
         {
-            Attaccato?.Invoke(sender, message);
+            
         }
     }
 }

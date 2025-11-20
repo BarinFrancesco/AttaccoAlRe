@@ -1,0 +1,15 @@
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\bin\Debug\net7.0\Barin_Attacco_Al_re.exe
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\bin\Debug\net7.0\Barin_Attacco_Al_re.deps.json
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\bin\Debug\net7.0\Barin_Attacco_Al_re.runtimeconfig.json
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\bin\Debug\net7.0\Barin_Attacco_Al_re.dll
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\bin\Debug\net7.0\Barin_Attacco_Al_re.pdb
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\Barin_Attacco_Al_re.GeneratedMSBuildEditorConfig.editorconfig
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\Barin_Attacco_Al_re.AssemblyInfoInputs.cache
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\Barin_Attacco_Al_re.AssemblyInfo.cs
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\Barin_Attacco_Al_re.csproj.CoreCompileInputs.cache
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\Barin_Attacco_Al_re.sourcelink.json
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\Barin_Attacco_Al_re.dll
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\refint\Barin_Attacco_Al_re.dll
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\Barin_Attacco_Al_re.pdb
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\Barin_Attacco_Al_re.genruntimeconfig.cache
+G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\ref\Barin_Attacco_Al_re.dll

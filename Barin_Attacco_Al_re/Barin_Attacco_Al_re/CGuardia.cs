@@ -17,7 +17,7 @@ namespace Barin_Attacco_Al_re
             OnAttaccato(this, message);
         }
 
-        protected virtual void OnAttaccato(object sender, string message)
+        public virtual void OnAttaccato(object sender, string message)
         {
             Attaccato?.Invoke(sender, message);
         }
