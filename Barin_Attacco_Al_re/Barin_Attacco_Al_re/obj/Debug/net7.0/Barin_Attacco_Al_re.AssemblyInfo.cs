@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Barin_Attacco_Al_re")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0fe5ca53abf4ceab6967f1aea577a2b0dece5ae")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5afe790a33bce32f181a1175776462ca30efcc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Barin_Attacco_Al_re")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Barin_Attacco_Al_re")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

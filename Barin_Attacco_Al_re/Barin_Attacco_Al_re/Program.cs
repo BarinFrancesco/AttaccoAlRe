@@ -6,12 +6,13 @@ namespace Barin_Attacco_Al_re
     {
         static GameManager Gioco;
         static string OutputFinale;
-        static int selectedElement;
+        public static Dictionary<CPersonaggio, EventHandler<string>> ListaEventi = new Dictionary<CPersonaggio, EventHandler<string>>();
+
+
         static void Main(string[] args)
         {
 
             string path = "Game.txt";
-            selectedElement = 0;
             Gioco = new GameManager(path);
             Iscrivi(Gioco);
 
@@ -27,39 +28,33 @@ namespace Barin_Attacco_Al_re
 
         public static void Iscrivi( GameManager Gioco)
         {
-            for(int i =0; i< Gioco.ListaPersonaggi.Count; i++)
+            foreach (var p in Gioco.ListaPersonaggi)
             {
-                if (Gioco.ListaPersonaggi[i] is CRe Re)
+                EventHandler<string> handler = (sender, s) =>
                 {
-                    Gioco.ReAttaccato += OnReAttaccato;
-                }
-                else if (Gioco.ListaPersonaggi[i] is CGuardia Guardia)
-                {
-                    Gioco.ReAttaccato += OnReAttaccato;
-                }
-                else if (Gioco.ListaPersonaggi[i] is CPedone Pedone)
-                {
-                    Gioco.ReAttaccato += OnReAttaccato;
-                }
+                    OnReAttaccato(sender, s, p);
+                };
 
+                Gioco.ReAttaccato += handler;
+                ListaEventi[p] = handler;
             }
         }
 
-        public static void OnReAttaccato(object sender, string s)
+        public static void OnReAttaccato(object sender, string s, CPersonaggio personaggio)
         {
-            if (Gioco.ListaPersonaggi[selectedElement] is CRe re)
+            if (personaggio is CRe re)
             {
                 Console.WriteLine(re.ReAttaccato());
                 OutputFinale += $"\n{re.ReAttaccato()}";
             }
-            if (Gioco.ListaPersonaggi[selectedElement] is CGuardia guardia)
+            else if (personaggio is CGuardia guardia)
             {
                 Console.WriteLine(guardia.ReAttaccato());
-            } else if(Gioco.ListaPersonaggi[selectedElement] is CPedone pedone)
+            }
+            else if (personaggio is CPedone pedone)
             {
                 Console.WriteLine(pedone.ReAttaccato());
             }
-            selectedElement = selectedElement < Gioco.ListaPersonaggi.Count - 1 ? selectedElement + 1: 0; 
         }
         
 

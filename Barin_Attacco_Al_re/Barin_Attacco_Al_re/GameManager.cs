@@ -31,7 +31,7 @@ namespace Barin_Attacco_Al_re
 
                 if (membri[0].ToLower() == "attacca")
                 {
-                    ReAttaccato?.Invoke(this, "x");
+                    ReAttaccato?.Invoke(this, "");
                     
                 } else if (membri[0].ToLower() == "cattura")
                 {
@@ -39,10 +39,14 @@ namespace Barin_Attacco_Al_re
                     {
                         if (ListaPersonaggi[i].Nome == membri[1].Trim())
                         {
-                           
-                            //ReAttaccato -= ListaPersonaggi[i].
+                            //Vado a selexzionare l'evento del personaggio, poi lo disiscrivo e successivamente elimino il personaggio
+                            if (Program.ListaEventi.ContainsKey(ListaPersonaggi[i]))
+                            {
+                                ReAttaccato -= Program.ListaEventi[ListaPersonaggi[i]];
+                                Program.ListaEventi.Remove(ListaPersonaggi[i]);
+                            }
                             ListaPersonaggi.RemoveAt(i);
-                            Console.WriteLine("ElementoRimosso");
+                            i--;
                         }
                     }
 
