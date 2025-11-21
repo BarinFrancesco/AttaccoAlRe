@@ -11,16 +11,12 @@
       "RelativeMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|solutionrelative:barin_attacco_al_re\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\attaccoalre\\barin_attacco_al_re\\barin_attacco_al_re\\cpersonaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|solutionrelative:barin_attacco_al_re\\cpersonaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\attaccoalre\\barin_attacco_al_re\\barin_attacco_al_re\\interfacce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|solutionrelative:barin_attacco_al_re\\interfacce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\attaccoalre\\barin_attacco_al_re\\barin_attacco_al_re\\cpedone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|solutionrelative:barin_attacco_al_re\\cpedone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\attaccoalre\\barin_attacco_al_re\\barin_attacco_al_re\\cpersonaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|solutionrelative:barin_attacco_al_re\\cpersonaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\attaccoalre\\barin_attacco_al_re\\barin_attacco_al_re\\cguardia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +25,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\attaccoalre\\barin_attacco_al_re\\barin_attacco_al_re\\cre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|solutionrelative:barin_attacco_al_re\\cre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\attaccoalre\\barin_attacco_al_re\\barin_attacco_al_re\\cpedone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|solutionrelative:barin_attacco_al_re\\cpedone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "Barin_Attacco_Al_re\\Program.cs",
               "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\Program.cs",
               "RelativeToolTip": "Barin_Attacco_Al_re\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAD4vzMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T20:21:44.853Z",
               "IsPinned": true,
@@ -62,23 +62,15 @@
               "RelativeDocumentMoniker": "Barin_Attacco_Al_re\\GameManager.cs",
               "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\GameManager.cs",
               "RelativeToolTip": "Barin_Attacco_Al_re\\GameManager.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wCoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwF0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T21:43:34.332Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "CPedone.cs",
               "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CPedone.cs",
               "RelativeDocumentMoniker": "Barin_Attacco_Al_re\\CPedone.cs",
@@ -91,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "CRe.cs",
               "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CRe.cs",
               "RelativeDocumentMoniker": "Barin_Attacco_Al_re\\CRe.cs",
@@ -104,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "CGuardia.cs",
               "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CGuardia.cs",
               "RelativeDocumentMoniker": "Barin_Attacco_Al_re\\CGuardia.cs",
@@ -117,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CPersonaggio.cs",
               "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CPersonaggio.cs",
               "RelativeDocumentMoniker": "Barin_Attacco_Al_re\\CPersonaggio.cs",
@@ -130,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Interfacce.cs",
               "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\Interfacce.cs",
               "RelativeDocumentMoniker": "Barin_Attacco_Al_re\\Interfacce.cs",
