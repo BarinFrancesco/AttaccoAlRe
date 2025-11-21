@@ -8,7 +8,7 @@ namespace Barin_Attacco_Al_re
 {
     class GameManager
     {
-        event EventHandler<string> ReAttaccato;
+        public event EventHandler<string> ReAttaccato;
         public string _path { get; private set; }
         public List<string> ListaMosse { get; private set; }
         public List<CPersonaggio> ListaPersonaggi { get; private set; }
@@ -21,15 +21,20 @@ namespace Barin_Attacco_Al_re
             Istanzia();
         }
 
-        public void Gioca()
-        {
 
+        public void Esegui()
+        {
+            foreach (var item in ListaMosse)
+            {
+                string[] membri = item.Split(' ');
+
+                if (membri[0].ToLower() == "attacca")
+                {
+                    ReAttaccato?.Invoke(this, "x");
+                }
+            }
         }
 
-        protected virtual void OnReAttaccato(object sender, string message)
-        {
-            
-        }
 
         public void Istanzia()
         {
@@ -65,6 +70,7 @@ namespace Barin_Attacco_Al_re
             }
         }
 
+
         public void CreazionePersonaggi(string testo, bool caso)
         {
             string[] valori = testo.Split(' ');
@@ -83,5 +89,7 @@ namespace Barin_Attacco_Al_re
                 }
             }
         }
+
+
     }
 }

@@ -13,3 +13,18 @@ G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\AttaccoAlRe\Barin_Attacco_Al
 G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\Barin_Attacco_Al_re.pdb
 G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\Barin_Attacco_Al_re.genruntimeconfig.cache
 G:\FRANCESCO\x scuola\Superiori\Informatica\COMPITI\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\ref\Barin_Attacco_Al_re.dll
+C:\Users\12999355\Desktop\Barin\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\Barin_Attacco_Al_re.csproj.AssemblyReference.cache
+C:\Users\12999355\Desktop\Barin\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\Barin_Attacco_Al_re.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12999355\Desktop\Barin\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\Barin_Attacco_Al_re.AssemblyInfoInputs.cache
+C:\Users\12999355\Desktop\Barin\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\Barin_Attacco_Al_re.AssemblyInfo.cs
+C:\Users\12999355\Desktop\Barin\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\Barin_Attacco_Al_re.csproj.CoreCompileInputs.cache
+C:\Users\12999355\Desktop\Barin\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\Barin_Attacco_Al_re.dll
+C:\Users\12999355\Desktop\Barin\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\refint\Barin_Attacco_Al_re.dll
+C:\Users\12999355\Desktop\Barin\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\Barin_Attacco_Al_re.pdb
+C:\Users\12999355\Desktop\Barin\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\bin\Debug\net7.0\Barin_Attacco_Al_re.exe
+C:\Users\12999355\Desktop\Barin\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\bin\Debug\net7.0\Barin_Attacco_Al_re.deps.json
+C:\Users\12999355\Desktop\Barin\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\bin\Debug\net7.0\Barin_Attacco_Al_re.runtimeconfig.json
+C:\Users\12999355\Desktop\Barin\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\bin\Debug\net7.0\Barin_Attacco_Al_re.dll
+C:\Users\12999355\Desktop\Barin\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\bin\Debug\net7.0\Barin_Attacco_Al_re.pdb
+C:\Users\12999355\Desktop\Barin\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\Barin_Attacco_Al_re.genruntimeconfig.cache
+C:\Users\12999355\Desktop\Barin\AttaccoAlRe\Barin_Attacco_Al_re\Barin_Attacco_Al_re\obj\Debug\net7.0\ref\Barin_Attacco_Al_re.dll

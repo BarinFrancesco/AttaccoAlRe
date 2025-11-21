@@ -9,6 +9,6 @@ namespace Barin_Attacco_Al_re
     internal interface IAttaccabile
     {
         //public string Catturato();
-        public void ReAttaccato();
+        public string ReAttaccato();
     }
 }

@@ -8,18 +8,11 @@ namespace Barin_Attacco_Al_re
 {
     internal class CGuardia : CPersonaggio, IAttaccabile
     {
-        public event EventHandler<string> Attaccato;
         public CGuardia(string name) : base(name) { }
 
-        public void ReAttaccato()
+        public string ReAttaccato()
         {
-            string message = $"La guardai {Nome} sta difendendo";
-            OnAttaccato(this, message);
-        }
-
-        public virtual void OnAttaccato(object sender, string message)
-        {
-            Attaccato?.Invoke(sender, message);
+            return $"La guardai {Nome} sta difendendo";
         }
     }
 }

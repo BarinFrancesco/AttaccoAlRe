@@ -10,15 +10,9 @@ namespace Barin_Attacco_Al_re
     {
         public CPedone(string nome) : base(nome) { }
 
-        public void ReAttaccato()
+        public string ReAttaccato()
         {
-            string message = $"Il pedone {Nome} si sta preparando";
-            OnAttaccato(this, message);
-        }
-
-        public virtual void OnAttaccato(object sender, string message)
-        {
-            
+            return $"Il pedone {Nome} si sta preparando";
         }
     }
 }
