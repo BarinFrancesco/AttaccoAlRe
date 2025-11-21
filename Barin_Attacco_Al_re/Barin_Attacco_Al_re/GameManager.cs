@@ -12,6 +12,7 @@ namespace Barin_Attacco_Al_re
         public string _path { get; private set; }
         public List<string> ListaMosse { get; private set; }
         public List<CPersonaggio> ListaPersonaggi { get; private set; }
+       
 
         public GameManager(string path)
         {
@@ -31,6 +32,20 @@ namespace Barin_Attacco_Al_re
                 if (membri[0].ToLower() == "attacca")
                 {
                     ReAttaccato?.Invoke(this, "x");
+                    
+                } else if (membri[0].ToLower() == "cattura")
+                {
+                    for(int i =0; i< ListaPersonaggi.Count; i++)
+                    {
+                        if (ListaPersonaggi[i].Nome == membri[1].Trim())
+                        {
+                           
+                            //ReAttaccato -= ListaPersonaggi[i].
+                            ListaPersonaggi.RemoveAt(i);
+                            Console.WriteLine("ElementoRimosso");
+                        }
+                    }
+
                 }
             }
         }

@@ -12,7 +12,7 @@ namespace Barin_Attacco_Al_re
 
         public string ReAttaccato()
         {
-            return $"La guardai {Nome} sta difendendo";
+            return $"La guardia {Nome} sta difendendo";
         }
     }
 }

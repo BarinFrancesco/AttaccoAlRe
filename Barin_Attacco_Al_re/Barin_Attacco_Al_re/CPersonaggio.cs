@@ -18,7 +18,7 @@ namespace Barin_Attacco_Al_re
             {
                 if (!string.IsNullOrEmpty(value))
                 {
-                    _nome = value;
+                    _nome = value.Trim();
                 } else
                 {
                     throw new Exception("Cokpilare il campo del nome");

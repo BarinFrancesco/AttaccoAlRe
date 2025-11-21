@@ -7,20 +7,8 @@
       "RelativeMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|solutionrelative:barin_attacco_al_re\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\attaccoalre\\barin_attacco_al_re\\barin_attacco_al_re\\cpedone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|solutionrelative:barin_attacco_al_re\\cpedone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\attaccoalre\\barin_attacco_al_re\\barin_attacco_al_re\\cmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|solutionrelative:barin_attacco_al_re\\cmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\attaccoalre\\barin_attacco_al_re\\barin_attacco_al_re\\cguardia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|solutionrelative:barin_attacco_al_re\\cguardia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\attaccoalre\\barin_attacco_al_re\\barin_attacco_al_re\\cre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|solutionrelative:barin_attacco_al_re\\cre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\attaccoalre\\barin_attacco_al_re\\barin_attacco_al_re\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|solutionrelative:barin_attacco_al_re\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\attaccoalre\\barin_attacco_al_re\\barin_attacco_al_re\\cpersonaggio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +17,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\attaccoalre\\barin_attacco_al_re\\barin_attacco_al_re\\interfacce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|solutionrelative:barin_attacco_al_re\\interfacce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\attaccoalre\\barin_attacco_al_re\\barin_attacco_al_re\\cpedone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|solutionrelative:barin_attacco_al_re\\cpedone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\attaccoalre\\barin_attacco_al_re\\barin_attacco_al_re\\cguardia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|solutionrelative:barin_attacco_al_re\\cguardia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|g:\\francesco\\x scuola\\superiori\\informatica\\compiti\\attaccoalre\\barin_attacco_al_re\\barin_attacco_al_re\\cre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FAE2F88-8073-4BA0-8B06-F7E9B37CB137}|Barin_Attacco_Al_re\\Barin_Attacco_Al_re.csproj|solutionrelative:barin_attacco_al_re\\cre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,89 +38,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CManager.cs",
-              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CManager.cs",
-              "RelativeDocumentMoniker": "Barin_Attacco_Al_re\\CManager.cs",
-              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CManager.cs",
-              "RelativeToolTip": "Barin_Attacco_Al_re\\CManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T20:21:44.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CPedone.cs",
-              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CPedone.cs",
-              "RelativeDocumentMoniker": "Barin_Attacco_Al_re\\CPedone.cs",
-              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CPedone.cs",
-              "RelativeToolTip": "Barin_Attacco_Al_re\\CPedone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T20:21:44.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CRe.cs",
-              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CRe.cs",
-              "RelativeDocumentMoniker": "Barin_Attacco_Al_re\\CRe.cs",
-              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CRe.cs",
-              "RelativeToolTip": "Barin_Attacco_Al_re\\CRe.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T20:21:44.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CGuardia.cs",
-              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CGuardia.cs",
-              "RelativeDocumentMoniker": "Barin_Attacco_Al_re\\CGuardia.cs",
-              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CGuardia.cs",
-              "RelativeToolTip": "Barin_Attacco_Al_re\\CGuardia.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T20:21:44.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CPersonaggio.cs",
-              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CPersonaggio.cs",
-              "RelativeDocumentMoniker": "Barin_Attacco_Al_re\\CPersonaggio.cs",
-              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CPersonaggio.cs",
-              "RelativeToolTip": "Barin_Attacco_Al_re\\CPersonaggio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T20:21:44.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Interfacce.cs",
-              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\Interfacce.cs",
-              "RelativeDocumentMoniker": "Barin_Attacco_Al_re\\Interfacce.cs",
-              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\Interfacce.cs",
-              "RelativeToolTip": "Barin_Attacco_Al_re\\Interfacce.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T20:21:44.851Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -129,9 +48,97 @@
               "RelativeDocumentMoniker": "Barin_Attacco_Al_re\\Program.cs",
               "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\Program.cs",
               "RelativeToolTip": "Barin_Attacco_Al_re\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAewFAAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-20T20:21:44.853Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\GameManager.cs",
+              "RelativeDocumentMoniker": "Barin_Attacco_Al_re\\GameManager.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\GameManager.cs",
+              "RelativeToolTip": "Barin_Attacco_Al_re\\GameManager.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wCoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T21:43:34.332Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CPedone.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CPedone.cs",
+              "RelativeDocumentMoniker": "Barin_Attacco_Al_re\\CPedone.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CPedone.cs",
+              "RelativeToolTip": "Barin_Attacco_Al_re\\CPedone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:21:44.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CRe.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CRe.cs",
+              "RelativeDocumentMoniker": "Barin_Attacco_Al_re\\CRe.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CRe.cs",
+              "RelativeToolTip": "Barin_Attacco_Al_re\\CRe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:21:44.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CGuardia.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CGuardia.cs",
+              "RelativeDocumentMoniker": "Barin_Attacco_Al_re\\CGuardia.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CGuardia.cs",
+              "RelativeToolTip": "Barin_Attacco_Al_re\\CGuardia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:21:44.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CPersonaggio.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CPersonaggio.cs",
+              "RelativeDocumentMoniker": "Barin_Attacco_Al_re\\CPersonaggio.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\CPersonaggio.cs",
+              "RelativeToolTip": "Barin_Attacco_Al_re\\CPersonaggio.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:21:44.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Interfacce.cs",
+              "DocumentMoniker": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\Interfacce.cs",
+              "RelativeDocumentMoniker": "Barin_Attacco_Al_re\\Interfacce.cs",
+              "ToolTip": "G:\\FRANCESCO\\x scuola\\Superiori\\Informatica\\COMPITI\\AttaccoAlRe\\Barin_Attacco_Al_re\\Barin_Attacco_Al_re\\Interfacce.cs",
+              "RelativeToolTip": "Barin_Attacco_Al_re\\Interfacce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T20:21:44.851Z",
               "EditorCaption": ""
             }
           ]
